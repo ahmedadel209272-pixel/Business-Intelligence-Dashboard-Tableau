@@ -4,19 +4,25 @@ A multi-page interactive Business Intelligence dashboard built for **BlueRidge E
 
 ---
 
+## 🔗 Live Dashboard
+
+👉 **[View on Tableau Public](https://public.tableau.com/app/profile/ahmed.adel8671/viz/day1_lab00/Executive)**
+
+---
+
 ## 🖼️ Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](dashboard_Executive.png)
+![Executive Dashboard](https://github.com/ahmedadel209272-pixel/Business-Intelligence-Dashboard-Tableau/blob/main/screenshots/dashboard_Executive.png)
 
 ### Customer Insights
-![Customer Dashboard](dashboard_Customer.png)
+![Customer Dashboard](https://github.com/ahmedadel209272-pixel/Business-Intelligence-Dashboard-Tableau/blob/main/screenshots/dashboard_Customers.png)
 
 ### Products Performance
-![Products Dashboard](dashboard_Products.png)
+![Products Dashboard](https://github.com/ahmedadel209272-pixel/Business-Intelligence-Dashboard-Tableau/blob/main/screenshots/dashboard_Products.png)
 
 ### Suppliers Overview
-![Suppliers Dashboard](dashboard_Suppliers.png)
+![Suppliers Dashboard](https://github.com/ahmedadel209272-pixel/Business-Intelligence-Dashboard-Tableau/blob/main/screenshots/dashboard_Suppliers.png)
 
 ---
 
@@ -79,9 +85,9 @@ This dashboard provides a comprehensive view of BlueRidge Event Production's bus
 
 ## 🎓 About This Project
 
-This dashboard was built during my training program at the **Information Technology Institute (ITI)**.
+This dashboard was built during my training program at the **[Information Technology Institute (ITI)](https://www.linkedin.com/search/results/all/?keywords=information%20technology%20institute%20%28iti%29&origin=RICH_QUERY_SUGGESTION&spellCorrectionEnabled=false&heroEntityKey=urn%3Ali%3Aorganization%3A294614&position=1)**.
 
-A special thank you to **Eng. Alaa** for the outstanding guidance and support throughout this project. 🙏
+A special thank you to **[Eng. Alaa Mohamed](https://www.linkedin.com/in/alaa-mohamed-1381a51ba/)** for the outstanding guidance and support throughout this project. 🙏
 
 ---
 
@@ -91,10 +97,11 @@ A special thank you to **Eng. Alaa** for the outstanding guidance and support th
 📂 BlueRidge-Dashboard/
 ├── 📊 BlueRidge_Dashboard.twbx     # Tableau packaged workbook
 ├── 📁 data/                         # Source data files
-├── 🖼️ dashboard_Executive.png       # Executive Overview screenshot
-├── 🖼️ dashboard_Customer.png        # Customer Insights screenshot
-├── 🖼️ dashboard_Products.png        # Products Performance screenshot
-├── 🖼️ dashboard_Suppliers.png       # Suppliers Overview screenshot
+├── 📁 screenshots/
+│   ├── 🖼️ dashboard_Executive.png   # Executive Overview screenshot
+│   ├── 🖼️ dashboard_Customers.png   # Customer Insights screenshot
+│   ├── 🖼️ dashboard_Products.png    # Products Performance screenshot
+│   └── 🖼️ dashboard_Suppliers.png   # Suppliers Overview screenshot
 └── 📄 README.md                     # Project documentation
 ```
 
@@ -102,7 +109,9 @@ A special thank you to **Eng. Alaa** for the outstanding guidance and support th
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](#) if you have any questions or feedback!
+- 👤 **Ahmed Adel** – [LinkedIn](https://www.linkedin.com/in/ahmed-data-eng/)
+- 🎓 **Instructor: Eng. Alaa Mohamed** – [LinkedIn](https://www.linkedin.com/in/alaa-mohamed-1381a51ba/)
+- 🏫 **Information Technology Institute (ITI)** – [LinkedIn](https://www.linkedin.com/search/results/all/?keywords=information%20technology%20institute%20%28iti%29&origin=RICH_QUERY_SUGGESTION&spellCorrectionEnabled=false&heroEntityKey=urn%3Ali%3Aorganization%3A294614&position=1)
 
 ---
 
